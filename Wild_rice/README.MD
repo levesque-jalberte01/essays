@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a> *cover image does not appear
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a> 
 
 <param ve-config
        title="Wild Rice: Connecting People to Place"
